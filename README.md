@@ -11,8 +11,9 @@ Neste projeto trabalhamos funcionalidades utililzando
 * Firebase
 
 ## Rodando o Projeto
-** Para rodar o projeto: **
-* Clone o repositório e em seguida siga os comandos abaixo:
+**Para rodar o projeto:**
+
+Clone o repositório e em seguida siga os comandos abaixo:
 
 ```bash
 # Para instalar as dependências
@@ -22,7 +23,7 @@ $ npm install
 
 # Para iniciar o projeto
 $ yarn start
-ou
+# ou
 $ npm run start
 ```
 
