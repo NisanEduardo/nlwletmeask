@@ -1,6 +1,8 @@
-# Getting Started with Create React App Novo
+# Letme Ask
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Tela Inicial do Projeto]()
+
+[Letme Ask](https://letmeask-eleite.web.app/) foi um projeto criado durante o evento NLW - Next Level Week - ministrado pela [RocketSeat](https://rocketseat.com.br/) com duração de uma semana.
 
 ## Available Scripts
 
